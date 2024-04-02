@@ -1,6 +1,5 @@
-- Hello, I’m @Scrongbongler
-- I'm interested in game development
-- I’m currently learning C#
+- Hello, I’m Scrongbongler
+- I'm interested in game development and am learning C#
 - I’m already collaborating with a friend
 - How to reach me: Not right now
 - Pronouns: Don't care
